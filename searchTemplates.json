@@ -1,0 +1,24 @@
+[
+    {
+        "id":1,
+        "title":"Make Your Muscles Fit.",
+        "url":"https://images.pexels.com/photos/19910508/pexels-photo-19910508/free-photo-of-a-person-pouring-tea-into-a-cup-on-a-table.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "description":"Make your muscles fit and grow your fitness with body, in just one month of challenge",
+        "category":"Boy"
+    },
+    {
+        "id":2,
+        "title":"Glow your face in just a month",
+        "url":"https://images.pexels.com/photos/17580598/pexels-photo-17580598/free-photo-of-horse-standing-by-rock-formation.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "description":"Glow your face in just a month with a simple household technique",
+        "category":"Girl"
+    },
+    {
+        "id":3,
+        "title":"Glow your face in just a month",
+        "url":"https://images.pexels.com/photos/17580598/pexels-photo-17580598/free-photo-of-horse-standing-by-rock-formation.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "description":"Glow your face in just a month with a simple household technique",
+        "category":"Girl"
+    }
+    
+]

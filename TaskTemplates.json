@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "task": [
+            {
+                "task": "Do a set of 10-15 push-ups to strengthen your chest, shoulders, and triceps.",
+                "duration": 1222
+            },
+            {
+                "task": "Stand facing a wall and perform push-ups against it to engage your chest, shoulders, and arms.",
+                "duration": 1222
+            },
+            {
+                "task": "While standing, lift your heels off the ground and hold for a few seconds to work your calf muscles.",
+                "duration": 2344
+            },
+            {
+                "task": "Bend one knee at a time to curl your leg backward and engage your hamstrings.",
+                "duration": 3454
+            },
+            {
+                "task": "Extend your arms out to your sides and perform small circles to work your shoulders and upper arms.",
+                "duration": 7986
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "task": [
+            {
+                "task": "Do a set of 10-15 push-ups to strengthen your chest, shoulders, and triceps.",
+                "duration": 1222
+            },
+            {
+                "task": "Stand facing a wall and perform push-ups against it to engage your chest, shoulders, and arms.",
+                "duration": 1222
+            },
+            {
+                "task": "While standing, lift your heels off the ground and hold for a few seconds to work your calf muscles.",
+                "duration": 2344
+            },
+            {
+                "task": "Bend one knee at a time to curl your leg backward and engage your hamstrings.",
+                "duration": 3454
+            },
+            {
+                "task": "Extend your arms out to your sides and perform small circles to work your shoulders and upper arms.",
+                "duration": 7986
+            }
+        ]
+    }
+]
