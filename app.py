@@ -14,7 +14,7 @@ def renderAPI():
     with open('searchTemplates.json','r') as file:
         loader = json.load(file)
         for i in loader:
-            if i['category'] == queryData:
+            if i['category'].lower() == queryData.lower():
                 result.append(i)
         return jsonify({'result':result})
 @app.route('/applyRequest',methods=['GET'])
